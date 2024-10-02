@@ -1,0 +1,14 @@
+D:\с# patterns\lab2\lab2\bin\Debug\net8.0\lab2.exe
+D:\с# patterns\lab2\lab2\bin\Debug\net8.0\lab2.deps.json
+D:\с# patterns\lab2\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+D:\с# patterns\lab2\lab2\bin\Debug\net8.0\lab2.dll
+D:\с# patterns\lab2\lab2\bin\Debug\net8.0\lab2.pdb
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.dll
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\refint\lab2.dll
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.pdb
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+D:\с# patterns\lab2\lab2\obj\Debug\net8.0\ref\lab2.dll
